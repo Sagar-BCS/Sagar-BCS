@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 Coursera-Certificate-link
+
 C - https://coursera.org/share/ac462e4d45ef46243331022363703412
 
 C++ - https://coursera.org/share/fa59c64bf0fa355bd88acd5fd43fe150
@@ -33,6 +34,8 @@ Computer Vision for Engineering and Science - https://coursera.org/share/9f77e20
 Introduction to NoSQL Databases - https://coursera.org/share/a58ead62fbfcbb972911be0fb819b40c
 
 Nptel-Certificate-link
+
+
 Software Testing-- https://archive.nptel.ac.in/content/noc/NOC22/SEM2/Ecertificates/106/noc22-cs61/Course/NPTEL22CS61S5476337010055209.jpg
 
 Data Mining-- https://archive.nptel.ac.in/content/noc/NOC23/SEM1/Ecertificates/106/noc23-cs43/Course/NPTEL23CS43S1432153603102275.jpg
